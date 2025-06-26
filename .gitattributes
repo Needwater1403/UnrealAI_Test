@@ -1,0 +1,6 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Weapons/Sword/Sword_uitlbiaga_Raw_8K_albedo.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Weapons/Sword/Sword_uitlbiaga_Raw_8K_normal.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Weapons/Sword/Sword_uitlbiaga_Raw_8K_orm.uasset filter=lfs diff=lfs merge=lfs -text
+Content/textures/Sword_uitlbiaga_Raw_8K_orm.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Weapons/Sword/Sword_uitlbiaga_Raw1.uasset filter=lfs diff=lfs merge=lfs -text
